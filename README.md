@@ -89,8 +89,9 @@ Interface:
 
 Weather API 
 
-<img width="1440" alt="Screenshot 2023-06-13 at 10 35 29 PM" src="https://github.com/Iamkrmayank/Disaster_Management_System/assets/103871423/4aa1ce26-3c39-4e55-babc-dcf2065663f6">
+<img width="971" alt="Screenshot 2023-06-13 at 10 38 57 PM" src="https://github.com/Iamkrmayank/Disaster_Management_System/assets/103871423/d322964a-ae71-4035-800b-45a5cdafcb06">
 
 Prediction 
 
-<img width="1440" alt="Screenshot 2023-06-13 at 10 34 22 PM" src="https://github.com/Iamkrmayank/Disaster_Management_System/assets/103871423/d9454ee4-8eb1-4fe2-884b-3464135b99e3">
+<img width="971" alt="Screenshot 2023-06-13 at 10 38 22 PM" src="https://github.com/Iamkrmayank/Disaster_Management_System/assets/103871423/37b7c0e5-7c9d-49d6-9503-4db3936376ea">
+
